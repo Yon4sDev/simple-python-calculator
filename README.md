@@ -10,6 +10,7 @@ This is a simple calculator made with python that can perform various operations
 * Other mathematical functions: square, square root.
   
   #how to run the program .
+  
  1.Save the script as `maths.py`.
  2. Run the script from your terminal using `python maths.py`.
  3. The program will display a menu with available operations.
